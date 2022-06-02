@@ -15,7 +15,7 @@ public class Student extends Hostel {
 		Student s=new Student();
 		s.collegeCode();
 		s.collegeName();
-		s.collegeRank();
+		//s.collegeRank();
 		s.deptName();
 		s.hostelName();
 		s.studentDept();

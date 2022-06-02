@@ -10,11 +10,7 @@ public class College   {
 		System.out.println("College Code : 3456");
 	}
 
-	public void collegeRank() {
-		System.out.println("College Rank ; 1");
-
-	}
-
+	
 }
 
 
